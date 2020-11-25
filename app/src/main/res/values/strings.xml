@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Compose Example</string>
+    <string name="counter_n">Counter: %s</string>
+    <string name="todo_list">TODO List</string>
+    <string name="what_to_do_q">"What to do?"</string>
+</resources>
